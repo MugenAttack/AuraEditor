@@ -1,0 +1,9 @@
+C:\Users\gaming-pc\documents\visual studio 2015\Projects\AuraEditor\AuraEditor\bin\Release\AuraEditor.exe.config
+C:\Users\gaming-pc\documents\visual studio 2015\Projects\AuraEditor\AuraEditor\bin\Release\AuraEditor.exe
+C:\Users\gaming-pc\documents\visual studio 2015\Projects\AuraEditor\AuraEditor\bin\Release\AuraEditor.pdb
+C:\Users\gaming-pc\documents\visual studio 2015\Projects\AuraEditor\AuraEditor\obj\Release\AuraEditor.Form1.resources
+C:\Users\gaming-pc\documents\visual studio 2015\Projects\AuraEditor\AuraEditor\obj\Release\AuraEditor.Properties.Resources.resources
+C:\Users\gaming-pc\documents\visual studio 2015\Projects\AuraEditor\AuraEditor\obj\Release\AuraEditor.csproj.GenerateResource.Cache
+C:\Users\gaming-pc\documents\visual studio 2015\Projects\AuraEditor\AuraEditor\obj\Release\AuraEditor.exe
+C:\Users\gaming-pc\documents\visual studio 2015\Projects\AuraEditor\AuraEditor\obj\Release\AuraEditor.pdb
+C:\Users\gaming-pc\documents\visual studio 2015\Projects\AuraEditor\AuraEditor\obj\Release\AuraEditor.csprojResolveAssemblyReference.cache
